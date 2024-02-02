@@ -502,7 +502,7 @@
     "tslint": "^4.0.0",
     "typescript": "2.3.4",
     "vscode": "^1.0.0",
-    "vsts-task-lib": "^0.9.18",
+    "vsts-task-lib": "^2.7.0",
     "yargs": "^5.0.0"
   },
   "dependencies": {
